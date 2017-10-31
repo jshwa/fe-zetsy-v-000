@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@import url(/fonts/Baskerville.ttc);
 /*////////// Global Styles //////////*/
 
 body {
@@ -32,6 +32,7 @@ img {
 }
 
 h1 {
+	font-family: baskerville;
 	font-size: 4em;
 	color: rgb(152,172,166);
 	border-bottom: 1px solid rgb(204,204,204);
