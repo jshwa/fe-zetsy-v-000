@@ -20,6 +20,7 @@ body {
 /* Write all remaining styles here */
 
 img {
+	border-style: solid;
 	border-color: rgb(204, 204, 204);
 	border-width: 5px;
 }
