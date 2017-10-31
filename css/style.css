@@ -35,6 +35,12 @@ img {
 	border-width: 5px;
 }
 
+img:hover {
+	border-style: solid;
+	border-color: rgb(111,127,122);
+	border-width: 5px;
+}
+
 h1 a {
 	color: rgb(152,172,166);
 	text-decoration: none;
