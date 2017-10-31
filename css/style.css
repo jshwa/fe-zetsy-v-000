@@ -19,6 +19,12 @@ body {
 
 /* Write all remaining styles here */
 
+img.main {
+	border-style: solid;
+	border-color: rgb(152,172,166);
+	border-width: 5px;
+}
+
 img {
 	border-style: solid;
 	border-color: rgb(204, 204, 204);
