@@ -19,6 +19,10 @@ body {
 
 /* Write all remaining styles here */
 
+section, header, footer {
+	display: block;
+}
+
 img.main {
 	border-style: solid;
 	border-color: rgb(152,172,166);
