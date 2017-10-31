@@ -35,7 +35,7 @@ img {
 	border-width: 5px;
 }
 
-.press img:hover {
+#press img:hover {
 	border-style: solid;
 	border-color: rgb(111,127,122);
 	border-width: 5px;
