@@ -24,6 +24,10 @@ section, header, footer {
 	display: block;
 }
 
+header {
+	margin-top: 5px;
+}
+
 img.main {
 	border-style: solid;
 	border-color: rgb(152,172,166);
