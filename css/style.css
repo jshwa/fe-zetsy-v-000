@@ -35,15 +35,16 @@ h1 {
 	font-family: baskerville;
 	font-size: 5em;
 	color: rgb(152,172,166);
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 	border-bottom: 1px solid rgb(204,204,204);
 }
 
 h2 {
 	color: rgb(111,127,122);
+	font-size: 2em;
 }
 
-#footer {
+footer {
 	text-align: right;
 	font-size: .75em;
 }
