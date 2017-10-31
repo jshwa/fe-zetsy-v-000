@@ -20,5 +20,6 @@ body {
 /* Write all remaining styles here */
 
 img {
-	border: 0px;
+	border-color: rgb(204, 204, 204)
+	border: 5px;
 }
